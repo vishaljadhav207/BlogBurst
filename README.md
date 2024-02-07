@@ -1,6 +1,9 @@
 # BlogBurst
 BlogBurst is a blogging web application built with MongoDB, Node.js, Express, and EJS.
 
+
+https://github.com/vishaljadhav207/BlogBurst/assets/95490543/8fde767e-5d0b-4c99-8c6b-13c3ad7ca4a7
+
 ## Getting Started
 To get started with BlogBurst, follow these steps:
 
